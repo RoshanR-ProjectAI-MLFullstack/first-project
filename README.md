@@ -1,6 +1,6 @@
-# My First Git Commit 🚀
+# Fist Commit by Roshan Raghuram 🚀
 
-This is my very first project on Git! 🎉  
+GG's people! 🎉  
 
 ## About
 This repository was created to learn and practice using **Git** and **GitHub**.  
